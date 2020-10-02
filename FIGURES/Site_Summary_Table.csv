@@ -1,0 +1,181 @@
+,Site Name,Site ID,Latitude,Longitude,Amplitude,Start Date,End Date,Number of Records,d2H Mean,d18O Mean,d2H Std,d18O Std
+0,"72    Dead Lake
+Name: Site Name, dtype: object","72    DELA
+Name: Site ID, dtype: object","72    32.54172
+Name: Latitude, dtype: float64","72   -87.80389
+Name: Longitude, dtype: float64",4.521033233079782,2019-01-15 17:35:00,2019-10-17 14:34:00,8,-21.03090147519894,-4.39848481262383,10.041072461020919,1.3133540905459995
+1,"37    Lenoir Landing
+Name: Site Name, dtype: object","37    LENO
+Name: Site ID, dtype: object","37    31.85388
+Name: Latitude, dtype: float64","37   -88.16122
+Name: Longitude, dtype: float64",3.8098704164378243,2019-04-08 18:31:00,2020-01-16 16:58:00,10,-20.7227510524604,-4.293156397759268,9.38472811502692,1.3680423676013864
+2,"69    Talladega National Forest
+Name: Site Name, dtype: object","69    TALL
+Name: Site ID, dtype: object","69    32.95046
+Name: Latitude, dtype: float64","69   -87.39327
+Name: Longitude, dtype: float64",5.497179147943667,2019-01-18 18:45:00,2020-03-09 16:00:00,12,-22.821488058926512,-4.535042095022115,9.374771465226214,1.3117478529731972
+3,"28    Caribou-Poker Creeks Research Watershed
+Name: Site Name, dtype: object","28    BONA
+Name: Site ID, dtype: object","28    65.15401
+Name: Latitude, dtype: float64","28   -147.50258
+Name: Longitude, dtype: float64",39.35052494306965,2019-03-21 20:05:00,2019-11-15 22:38:00,9,-129.30291352383716,-15.505973154843119,25.114472290421862,3.112938104591299
+4,"30    Healy
+Name: Site Name, dtype: object","30    HEAL
+Name: Site ID, dtype: object","30    63.87569
+Name: Latitude, dtype: float64","30   -149.21334
+Name: Longitude, dtype: float64",29.370351092198614,2019-03-26 21:20:00,2019-12-06 00:56:00,7,-125.52549521436856,-15.465317224218552,18.288554819229052,1.8123724995753092
+5,"32    Toolik
+Name: Site Name, dtype: object","32    TOOL
+Name: Site ID, dtype: object","32    68.66109
+Name: Latitude, dtype: float64","32   -149.37047
+Name: Longitude, dtype: float64",15.331885006277515,2019-03-06 20:19:00,2019-09-05 00:18:00,6,-149.0562602741805,-18.557010891344266,12.656482164878732,1.5418066820613499
+6,"13    Santa Rita Experimental Range
+Name: Site Name, dtype: object","13    SRER
+Name: Site ID, dtype: object","13    31.91068
+Name: Latitude, dtype: float64","13   -110.83549
+Name: Longitude, dtype: float64",23.517719565160576,2018-09-26 17:46:00,2020-03-09 18:38:00,21,-44.82546723934052,-5.925828223489146,22.65881687626629,3.558872057608259
+7,"36    San Joaquin Experimental Range
+Name: Site Name, dtype: object","36    SJER
+Name: Site ID, dtype: object","36    37.10878
+Name: Latitude, dtype: float64","36   -119.73228
+Name: Longitude, dtype: float64",38.589759771862475,2019-03-27 16:55:00,2020-01-27 21:33:00,9,-70.94357868242136,-10.06066259780921,33.051216516903914,4.048158024899321
+8,"40    Central Plains Experimental Range
+Name: Site Name, dtype: object","40    CPER
+Name: Site ID, dtype: object","40    40.81553
+Name: Latitude, dtype: float64","40   -104.7456
+Name: Longitude, dtype: float64",78.85846334025493,2018-10-02 17:08:00,2019-12-23 17:01:00,14,-113.62375686467703,-14.536276451521541,66.66359912365672,7.972414765503962
+9,"15    Niwot Ridge Mountain Research Station
+Name: Site Name, dtype: object","15    NIWO
+Name: Site ID, dtype: object","15    40.05425
+Name: Latitude, dtype: float64","15   -105.58237
+Name: Longitude, dtype: float64",62.12938671842799,2018-10-25 16:25:00,2020-03-10 17:59:00,20,-100.0039500232213,-13.027568053387702,44.67869095859789,5.30685531613139
+10,"63    Rocky Mountain National Park, CASTNET
+Name: Site Name, dtype: object","63    RMNP
+Name: Site ID, dtype: object","63    40.27591
+Name: Latitude, dtype: float64","63   -105.54592
+Name: Longitude, dtype: float64",49.94543636954127,2018-09-18 17:00:00,2020-01-07 20:19:00,24,-103.5548130731105,-13.489648780941486,43.736884662249466,5.369720048248027
+11,"42    North Sterling, CO
+Name: Site Name, dtype: object","42    STER
+Name: Site ID, dtype: object","42    40.4619
+Name: Latitude, dtype: float64","42   -103.0293
+Name: Longitude, dtype: float64",55.378740403956556,2018-09-12 18:30:00,2020-03-09 18:18:00,21,-76.9894135938644,-9.50224047056197,45.64525616807261,5.969885344747143
+12,"51    Ordway-Swisher Biological Station
+Name: Site Name, dtype: object","51    OSBS
+Name: Site ID, dtype: object","51    29.68927
+Name: Latitude, dtype: float64","51   -81.99343
+Name: Longitude, dtype: float64",1.626612872028145,2017-07-12 14:36:00,2020-02-10 17:51:00,33,-14.55704582837882,-3.005490460734159,12.501654856109907,1.8214983911181044
+13,"54    Jones Ecological Research Center
+Name: Site Name, dtype: object","54    JERC
+Name: Site ID, dtype: object","54    31.19484
+Name: Latitude, dtype: float64","54   -84.46861
+Name: Longitude, dtype: float64",4.121281502719596,2018-09-18 14:00:00,2020-02-03 19:42:00,24,-19.46053710794514,-3.8524344676900797,13.293477395907562,1.8215686476677102
+14,"2    Pu'u Maka'ala Natural Area Reserve
+Name: Site Name, dtype: object","2    PUUM
+Name: Site ID, dtype: object","2    19.55309
+Name: Latitude, dtype: float64","2   -155.31731
+Name: Longitude, dtype: float64",20.067464551657626,2019-06-04 22:20:00,2019-12-10 01:00:00,13,-13.548188002939664,-3.9070719091734,17.51768300561564,1.8202357702432235
+15,"62    Konza Prairie Biological Station
+Name: Site Name, dtype: object","62    KONZ
+Name: Site ID, dtype: object","62    39.10077
+Name: Latitude, dtype: float64","62   -96.56309
+Name: Longitude, dtype: float64",40.3576826687495,2018-11-06 18:00:00,2019-12-31 17:45:00,22,-50.98312199179894,-7.675933091774332,33.44510082503457,4.099936058117818
+16,"79    The University of Kansas Field Station
+Name: Site Name, dtype: object","79    UKFS
+Name: Site ID, dtype: object","79    39.04043
+Name: Latitude, dtype: float64","79   -95.19215
+Name: Longitude, dtype: float64",25.719114280166618,2018-11-28 16:45:00,2019-12-11 18:05:00,19,-37.78738597527749,-6.314814246186446,24.045278193717945,2.81489476407453
+17,"56    Smithsonian Environmental Research Center
+Name: Site Name, dtype: object","56    SERC
+Name: Site ID, dtype: object","56    38.89008
+Name: Latitude, dtype: float64","56   -76.56001
+Name: Longitude, dtype: float64",9.252054554863001,2019-04-17 16:47:00,2020-01-30 17:00:00,16,-31.62539575998844,-5.6831172101804315,12.893323308618625,1.9548707117393842
+18,"80    Harvard Forest
+Name: Site Name, dtype: object","80    HARV
+Name: Site ID, dtype: object","80    42.5369
+Name: Latitude, dtype: float64","80   -72.17266
+Name: Longitude, dtype: float64",20.954516405655113,2018-09-24 15:28:00,2020-01-27 15:33:00,23,-52.33349235945829,-8.176328328282223,20.98081228878179,2.470434075947171
+19,"44    UNDERC
+Name: Site Name, dtype: object","44    UNDE
+Name: Site ID, dtype: object","44    46.23388
+Name: Latitude, dtype: float64","44   -89.53725
+Name: Longitude, dtype: float64",40.03775839589565,2018-09-26 17:00:00,2020-01-28 17:06:00,28,-81.36252758305095,-11.097733498246669,36.70054425251271,4.360226801197731
+20,"59    Bartlett Experimental Forest
+Name: Site Name, dtype: object","59    BART
+Name: Site ID, dtype: object","59    44.06388
+Name: Latitude, dtype: float64","59   -71.28731
+Name: Longitude, dtype: float64",23.586092160483567,2018-10-01 18:13:00,2020-01-31 15:27:00,27,-58.30893720149572,-8.89994818814968,28.236154055382833,3.524905592217145
+21,"66    Northern Great Plains Research Laboratory
+Name: Site Name, dtype: object","66    NOGP
+Name: Site ID, dtype: object","66    46.76972
+Name: Latitude, dtype: float64","66   -100.91535
+Name: Longitude, dtype: float64",41.71881987646987,2019-04-23 19:09:00,2020-01-10 18:25:00,13,-102.77028898066864,-13.172173178634006,30.5015946247504,3.526438511619492
+22,"64    Woodworth
+Name: Site Name, dtype: object","64    WOOD
+Name: Site ID, dtype: object","64    47.12823
+Name: Latitude, dtype: float64","64   -99.24136
+Name: Longitude, dtype: float64",54.551110052368244,2019-04-02 17:37:00,2019-11-12 18:55:00,11,-121.1817583898737,-16.080456592464536,39.58781615883085,4.849986265073066
+23,"39    Klemme Range Research Station
+Name: Site Name, dtype: object","39    OAES
+Name: Site ID, dtype: object","39    35.41059
+Name: Latitude, dtype: float64","39   -99.05879
+Name: Longitude, dtype: float64",18.041886481429106,2018-12-19 21:36:00,2019-12-23 18:15:00,18,-36.38700011237882,-5.75127330889145,20.880699470924682,3.0186070397298543
+24,"49    Guanica Forest
+Name: Site Name, dtype: object","49    GUAN
+Name: Site ID, dtype: object","49    17.96955
+Name: Latitude, dtype: float64","49   -66.8687
+Name: Longitude, dtype: float64",24.922887860355758,2019-05-02 13:20:00,2019-12-23 17:04:00,17,-25.731138693759448,-3.897508567201784,25.31320726056075,2.463244398937775
+25,"78    Great Smoky Mountains National Park, Twin Creeks
+Name: Site Name, dtype: object","78    GRSM
+Name: Site ID, dtype: object","78    35.68896
+Name: Latitude, dtype: float64","78   -83.50195
+Name: Longitude, dtype: float64",32.87359547762843,2019-05-21 16:36:00,2019-11-20 15:07:00,12,-50.45974965343195,-8.139634864496136,32.72495401947022,4.198263073595117
+26,"75    Oak Ridge
+Name: Site Name, dtype: object","75    ORNL
+Name: Site ID, dtype: object","75    35.96412
+Name: Latitude, dtype: float64","75   -84.2826
+Name: Longitude, dtype: float64",30.00548468813956,2019-04-24 16:48:00,2019-12-05 18:07:00,10,-46.95706061954771,-7.535352923797449,23.39733825790511,2.988523124688303
+27,"22    LBJ National Grassland 
+Name: Site Name, dtype: object","22    CLBJ
+Name: Site ID, dtype: object","22    33.40123
+Name: Latitude, dtype: float64","22   -97.57
+Name: Longitude, dtype: float64",28.025031145261732,2018-11-16 17:27:00,2020-01-02 17:50:00,21,-28.55729074195879,-4.985022038147922,26.39619261668609,3.3700567263349055
+28,"18    Moab
+Name: Site Name, dtype: object","18    MOAB
+Name: Site ID, dtype: object","18    38.24833
+Name: Latitude, dtype: float64","18   -109.38827
+Name: Longitude, dtype: float64",73.99595044840036,2018-11-19 19:24:00,2020-01-28 20:58:00,18,-76.94165777024598,-7.989614802531254,58.68089166706226,11.608626218813646
+29,"12    Onaqui
+Name: Site Name, dtype: object","12    ONAQ
+Name: Site ID, dtype: object","12    40.17759
+Name: Latitude, dtype: float64","12   -112.45244
+Name: Longitude, dtype: float64",51.502046756685395,2018-10-16 19:30:00,2020-02-05 17:00:00,24,-84.9706982097847,-9.60090670786979,43.89819768569797,6.7603791599357965
+30,"55    Blandy Experimental Farm
+Name: Site Name, dtype: object","55    BLAN
+Name: Site ID, dtype: object","55    39.06026
+Name: Latitude, dtype: float64","55   -78.07164
+Name: Longitude, dtype: float64",21.062409745284203,2019-05-08 12:16:00,2020-02-04 15:00:00,19,-36.074311312393526,-6.013482302017112,23.862329490602797,3.1666762611164536
+31,"76    Mountain Lake Biological Station
+Name: Site Name, dtype: object","76    MLBS
+Name: Site ID, dtype: object","76    37.37828
+Name: Latitude, dtype: float64","76   -80.52484
+Name: Longitude, dtype: float64",39.579594395214805,2019-05-14 21:05:00,2019-11-26 16:59:00,12,-52.58134881445424,-8.688551875686839,33.61469269150212,4.352702310945294
+32,"57    Smithsonian Conservation Biology Institute
+Name: Site Name, dtype: object","57    SCBI
+Name: Site ID, dtype: object","57    38.89292
+Name: Latitude, dtype: float64","57   -78.1395
+Name: Longitude, dtype: float64",18.264905718291608,2019-05-07 17:30:00,2020-02-06 17:00:00,17,-39.50994937129541,-6.6777589588751205,23.409082378258567,2.9086933214497317
+33,"24    Wind River Experimental Forest
+Name: Site Name, dtype: object","24    WREF
+Name: Site ID, dtype: object","24    45.82049
+Name: Latitude, dtype: float64","24   -121.95191
+Name: Longitude, dtype: float64",9.378730149878587,2018-09-28 17:30:00,2020-03-09 20:18:00,28,-63.46040880151646,-8.694310047512056,19.58900596038575,2.5887613455101812
+34,"46    Steigerwaldt Land Services
+Name: Site Name, dtype: object","46    STEI
+Name: Site ID, dtype: object","46    45.50894
+Name: Latitude, dtype: float64","46   -89.58637
+Name: Longitude, dtype: float64",46.167885207796836,2018-10-02 19:10:00,2020-02-06 17:00:00,28,-86.62545302835028,-12.174021630125917,40.53877164354287,4.883425934189858
+35,"19    Yellowstone Northern Range (Frog Rock)
+Name: Site Name, dtype: object","19    YELL
+Name: Site ID, dtype: object","19    44.95348
+Name: Latitude, dtype: float64","19   -110.53914
+Name: Longitude, dtype: float64",44.9419157510778,2019-07-10 16:56:00,2020-01-28 18:13:00,14,-111.61914919978452,-13.906022883290204,39.679349719938415,5.282893129709716
